@@ -2,4 +2,4 @@
  
  Basic project CSS3 course
 
-https://weltonam.github.io/CSS3-basic-course/
+https://weltonam.github.io/Project-CSS3-1/
